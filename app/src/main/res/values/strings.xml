@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">MyFirstListViewAppWithEdits</string>
+  <string-array name="list_view_items">
+    <item>Item 01</item>
+    <item>Item 02</item>
+    <item>Item 03</item>
+    <item>Item 04</item>
+    <item>Item 05</item>
+    <item>Item 06</item>
+    <item>Item 07</item>
+    <item>Item 08</item>
+    <item>Item 09</item>
+    <item>Item 10</item>
+  </string-array>
+  <string name="toast_msg_click">Clicked On</string>
+  <string name="title_activity_edit_item">Edit Item</string>
+  <string name="btn_caption_ok">OK</string>
+  <string name="btn_caption_cancel">Cancel</string>
+  <string name="edit_item_title">Edit item</string>
+</resources>
